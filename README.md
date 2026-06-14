@@ -19,6 +19,12 @@ Alongside the hardware, we designed the complete DroneDash mobile application wo
 
 ![](https://github.com/user-attachments/assets/4e817d89-47a4-4e2c-9fac-5bd0d67c8228)
 
+![](https://github.com/user-attachments/assets/697d309e-a68e-49b1-a4b4-a67f7f5ccce8)
+
+![](https://github.com/user-attachments/assets/9706c174-25ed-45bb-962c-4d73c9020131)
+
+![](https://github.com/user-attachments/assets/a8326b03-2f07-4c36-84bf-e0a690ed8495)
+
 ---
 
 ## F6 Drone — Flight Video
@@ -38,12 +44,6 @@ https://github.com/user-attachments/assets/b6578214-47e3-4ed1-9ae3-5eb5eaf4a420
 ## DroneDash App — Figma Mockups
 
 ![](https://github.com/user-attachments/assets/fc8403f8-9c33-470f-b407-b3042703bd6f)
-
-![](https://github.com/user-attachments/assets/697d309e-a68e-49b1-a4b4-a67f7f5ccce8)
-
-![](https://github.com/user-attachments/assets/9706c174-25ed-45bb-962c-4d73c9020131)
-
-![](https://github.com/user-attachments/assets/a8326b03-2f07-4c36-84bf-e0a690ed8495)
 
 ![](https://github.com/user-attachments/assets/1bb77394-1025-4a50-8a17-a97861e17d55)
 
@@ -73,6 +73,6 @@ https://github.com/pxvn/DRONE-DASH/raw/main/FIGMA%20EXPLAIN.mp4
 
 ## Note
 
-This repository is publicly accessible solely for FAR AWAY 2026 judging and evaluation purposes. All designs, media, and project materials remain the intellectual property of the authors and are not intended for reuse, redistribution, or commercial use without permission.
+This repository is publicly accessible solely for FAR AWAY 2026 judging and evaluation purposes. All designs, media, and project materials remain the intellectual property of our team and are not intended for reuse, redistribution, or commercial use without permission.
 
-*Built for FAR AWAY 2026 — Logistics & Transit Theme.*
+*submission for FAR AWAY 2026 — Logistics & Transit Theme.*
