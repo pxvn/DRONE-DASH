@@ -9,21 +9,28 @@
 
 [![View 3D Model](https://img.shields.io/badge/View%203D%20Model-5inchDesign.step-blue?style=for-the-badge&logo=autodesk&logoColor=white)](https://3dviewer.net/#model=https://raw.githubusercontent.com/pxvn/DRONE-DASH/main/5inchDesign.step)
 
+# DRONE-DASH
 
----
+DroneDash is a drone-assisted delivery concept designed for gated communities, campuses, and other controlled environments where deliveries often face delays due to security and access restrictions.
 
-## Files
+As part of this MVP, we developed **F6**, a custom-built 5-inch cinewhoop-style drone featuring a Fusion 360 designed frame with integrated propeller guards for improved operational safety. The platform has been flight-tested and supports autonomous mission execution through standard ground control workflows. Optical-flow based positioning was also integrated to improve stability in GPS-limited environments.
 
-| File | Description |
-|------|-------------|
-| `5inchDesign.step` | 5-inch drone frame — CAD model (STEP format) |
-| `FIGMA APP CONCEPT VIDEO.mp4` | Delivery drone app UI concept video |
+Alongside the hardware, we designed the complete DroneDash mobile application workflow, covering delivery requests, tracking, and user interaction within the ecosystem.
 
----
+## Repository Contents
 
-## About
+* Custom drone CAD files (Fusion 360 / STEP)
+* Hardware design documentation
+* Flight test media
+* DroneDash app mockups and concept video
+* Project submission assets
 
-Submission files for **FARAWAY 2026**, a delivery drone suite project.
+## Note
+
+This repository is publicly accessible solely for FAR AWAY 2026 judging and evaluation purposes. All designs, media, and project materials remain the intellectual property of the authors and are not intended for reuse, redistribution, or commercial use without permission.
+
+Built for FAR AWAY 2026 — Logistics & Transit Theme.
+
 
 
 ## <img width="1187" height="667" alt="image" src="https://github.com/user-attachments/assets/0db32909-7004-4098-be8b-db2a3612d2c8" />
