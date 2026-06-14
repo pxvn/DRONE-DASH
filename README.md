@@ -5,11 +5,10 @@
 
 ## 3D Model Viewer
 
-> Interactive 3D viewer for the 5-inch drone frame design (STEP file). Click the badge below to open it in your browser — no software installation required.
+> Interactive 3D viewer for the 5-inch drone frame design (STEP file). Click the badge below to open it in your browser.
 
 [![View 3D Model](https://img.shields.io/badge/View%203D%20Model-5inchDesign.step-blue?style=for-the-badge&logo=autodesk&logoColor=white)](https://3dviewer.net/#model=https://raw.githubusercontent.com/pxvn/DRONE-DASH/main/5inchDesign.step)
 
-> Powered by [3dviewer.net](https://3dviewer.net) — supports pan, zoom, rotate, and section views directly in the browser.
 
 ---
 
