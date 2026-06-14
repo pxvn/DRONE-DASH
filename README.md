@@ -36,6 +36,11 @@ Built for FAR AWAY 2026 — Logistics & Transit Theme.
 ## <img width="1187" height="667" alt="image" src="https://github.com/user-attachments/assets/0db32909-7004-4098-be8b-db2a3612d2c8" />
 ##<img width="1182" height="652" alt="image" src="https://github.com/user-attachments/assets/08779de8-24a9-426d-90cd-c0a676100aa3" />
 ## <img width="1175" height="657" alt="image" src="https://github.com/user-attachments/assets/4e817d89-47a4-4e2c-9fac-5bd0d67c8228" />
+
+
+https://github.com/user-attachments/assets/b6578214-47e3-4ed1-9ae3-5eb5eaf4a420
+
+
 ##figma mockups <img width="1170" height="663" alt="image" src="https://github.com/user-attachments/assets/fc8403f8-9c33-470f-b407-b3042703bd6f" />
 ##<img width="1186" height="665" alt="image" src="https://github.com/user-attachments/assets/697d309e-a68e-49b1-a4b4-a67f7f5ccce8" />
 
